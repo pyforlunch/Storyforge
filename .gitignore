@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies (if npm is used for tooling)
+node_modules/
+
+# Build output (not applicable v1, but future-proofing)
+dist/
+build/

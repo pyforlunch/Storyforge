@@ -1,0 +1,25 @@
+{
+  "name": "ai-user-story-meetings-tool",
+  "version": "1.0.0",
+  "description": "AI-powered meeting transcript to Jira user story extractor",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --open=index.html"
+  },
+  "keywords": [
+    "jira",
+    "user-stories",
+    "agile",
+    "ai",
+    "anthropic",
+    "meeting-transcript",
+    "product-management"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14"
+  }
+}
