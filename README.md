@@ -143,8 +143,3 @@ For local development you can set `ANTHROPIC_API_KEY` in your environment; the a
 - **Anthropic Messages API** — `claude-sonnet-4-20250514`
 - **Google Fonts** — Syne (display), DM Sans (body), DM Mono (code)
 
----
-
-## License
-
-MIT © 2026
