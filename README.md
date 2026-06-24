@@ -1,4 +1,4 @@
-# StoryForge — AI Jira Story Extractor
+# StoryForge — Jira Stories from Meeting transcripts
 
 > Turn meeting transcripts into Jira-ready user stories, action items, and bugs in seconds.
 
